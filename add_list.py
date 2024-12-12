@@ -10,7 +10,6 @@ print('Title:', Title3)
 Titles=[Title1, Title2, Title3]
 print("Список заголовков заметки:", "Заметка №1 -", Title1+";",
       "Заметка №2 -",Title2+";", "Заметка №3 -", Title3+".")
-#print("Список заголовков заметки:", Titles)
 Content = input('Введите описание заметки: ') # Описание заметки
 print('Content:', Content)
 Status = input('Введите статус заметки: ') # Статус заметки
