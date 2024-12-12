@@ -1,5 +1,4 @@
 # Input Data from user
-
 Username = input('Введите имя пользователя: ') # Имя пользователя
 print('Username:', Username)
 Title1 = input('Введите заголовок заметки №1: ') # Заголовок заметки
