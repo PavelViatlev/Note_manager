@@ -23,3 +23,5 @@
 o	Поля: username, content, status, created_date, issue_date.
 o	Список заголовков как значение ключа titles.
 •	Все данные выводятся на экран в структурированном виде.
+
+
